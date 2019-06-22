@@ -1,33 +1,31 @@
 FOOD REVIEW CLASSIFICATION CLI APPLICATION
 ---
-Build classification model to classifier food review sentiments using logistic regression, naive bayes through sklearn and mlflow.  
+Build classification model to classifier food review sentiments using logistic regression, naive bayes through sklearn and mlflow.    
 
 
- |--food_review
- |    |--data/
- |    |
- |    |--image/
- |    |
- |    |--mlruns
- |    |
- |    |--metrics.py
- |    |
- |    |--pipeline.pkl
- |    |
- |    |--predict.py
- |    |
- |    |--sentiment_cli.py
- |    |
- |    |--train.py
- |
- |--README.md
- |
- |--requirment.txt
- |
- |--setup.py
-
-
-
+       |--food_review
+       |      |--data/
+       |      |
+       |      |--image/
+       |      |
+       |      |--mlruns
+       |      |
+       |      |--metrics.py
+       |      |
+       |      |--pipeline.pkl
+       |      |
+       |      |--predict.py
+       |      |
+       |      |--sentiment_cli.py
+       |      |
+       |      |--train.py
+       |
+       |--README.md
+       |
+       |--requirment.txt
+       |
+       |--setup.py
+       
 
 ### What does the application do?
 The Review Sentiment is a supervised machine learning cli application that identifies if a review has postive (1) or negative (0) sentiment with probability score.
@@ -90,5 +88,5 @@ From the project directory in terminal:
        {'auc_score': 0.76, 'Accuracy': 0.76, 'f1_score': 0.75}
 
 ### Build it
-from RUBIX directory:  
+from Food-Review-Classification directory:  
     ***python setup.py develop***
