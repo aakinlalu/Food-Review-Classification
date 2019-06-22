@@ -1,6 +1,5 @@
 FOOD REVIEW CLASSIFICATION CLI APPLICATION
 ---
-
  |--food_review
  |    |--data/
  |    |
