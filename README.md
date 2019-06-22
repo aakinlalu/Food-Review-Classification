@@ -1,5 +1,7 @@
 FOOD REVIEW CLASSIFICATION CLI APPLICATION
 ---
+Build classification model to classifier food review sentiments using logistic regression, naive bayes through sklearn and mlflow.
+
  |--food_review
  |    |--data/
  |    |
