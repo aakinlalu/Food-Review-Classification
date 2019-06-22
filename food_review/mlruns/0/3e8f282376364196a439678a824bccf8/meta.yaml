@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adebayoakinlalu/Jupyterdir/RUBIX/food_review/mlruns/0/3e8f282376364196a439678a824bccf8/artifacts
+end_time: 1560866538082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 3e8f282376364196a439678a824bccf8
+run_uuid: 3e8f282376364196a439678a824bccf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1560866535001
+status: 3
+tags: []
+user_id: adebayoakinlalu

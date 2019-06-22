@@ -1,0 +1,8 @@
+README.md
+setup.py
+food_review/food_review.egg-info/PKG-INFO
+food_review/food_review.egg-info/SOURCES.txt
+food_review/food_review.egg-info/dependency_links.txt
+food_review/food_review.egg-info/entry_points.txt
+food_review/food_review.egg-info/requires.txt
+food_review/food_review.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+scikit-learn
+yellowbrick
+mlflow
+seaborn
+numpy
+pandas
+matplotlib
+Click

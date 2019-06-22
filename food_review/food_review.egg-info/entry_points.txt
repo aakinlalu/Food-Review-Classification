@@ -1,0 +1,3 @@
+[console_scripts]
+food_review = food_review.sentiment_cli:sentiment_cli
+
